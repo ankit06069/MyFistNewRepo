@@ -59,3 +59,93 @@
   57 git history
   58 history
   59 clear
+
+   Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\ankit\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\c...
+   2 & C:/Users/ankit/AppData/Local/Programs/Python/Python313/python.exe c:/Users/ankit/Desktop/github...
+   3 Yes
+   4 clear
+   5 & C:/Users/ankit/AppData/Local/Programs/Python/Python313/python.exe c:/Users/ankit/Desktop/github...
+   6 git status
+   7 git rm --cached learning-git.py python.py
+   8 git status
+   9 git add learning-git.py
+  10 git status
+  11 git rm --cached python.py to unstage
+  12 ls
+  13 git status
+  14 git rm --cached learning-git.py to unstage
+  15 git rm --cached <learning-git.py> to unstage
+  16 git rm --cached learning-git.py to unstage
+  17 git rm --cached learning-git.py  unstage
+  18 git rm --cached learning-git.py
+  19 git status
+  20 git statusclear
+  21 clear
+  22 git status
+  23 git add learning-git.py
+  24 git sttatus
+  25 git commit -m "testing"
+  26 clear
+  27 clear
+  28 git commit -m "testing"
+  29 git config
+  30 git config --
+  31  git config --global user.email "ankitrockks@gmail.com"
+  32 git config username
+  33 git config user.name
+  34 Ankit
+  35 git commit -m "testing"
+  36 clear
+  37 git status
+  38 git config --global --list
+  39 git clone https://github.com/ankit06069/MyFistNewRepo.git
+  40 ls
+  41 clear
+  42 git status
+  43 git commit MyFirstNewRepo/
+  44 clear
+  45 ls
+  46 rm python.py
+  47 ls
+  48 git status
+  49 git restore python.py
+  50 ls
+  51 git status
+  52 git add MyFirstNewRepo
+  53 clear
+  54 cl
+  55 clear
+  56 git historu
+  57 git history
+  58 history
+  59 clear
+
+  1 try { . "c:\Users\ankit\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\c...
+   2 & C:/Users/ankit/AppData/Local/Programs/Python/Python313/python.exe c:/Users/ankit/Desktop/github...
+   3 git push
+   4 git push
+   5 git status
+   6 git commit -m basic_command.txt
+   7 git add basic_command.txt
+   8 git commit -m basic_command.txt
+   9 git status
+  10 git add cmd
+  11 git commit -m cmd
+  12 git status
+  13 git push
+  14 clear
+  15 git push
+  16 clear
+  17 clone https://github.com/ankit06069/MyFistNewRepo.git
+  18 git clone .\https://github.com/ankit06069/MyFistNewRepo.git
+  19 git clone https://github.com/ankit06069/MyFistNewRepo.git
+  20 https://github.com/ankit06069/MyFistNewRepo.git
+  21 git clone https://github.com/ankit06069/MyFistNewRepo.git
+  22 clear
+  23 git status
+  24 rm MyFistNewRepo
+  25 rm clone_test
+  26 clear
+  27 git status
